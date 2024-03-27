@@ -23,11 +23,6 @@
   border-radius: 0.5em;
 }
 
-.slide:hover {
-  transform: scale(1.025);
-}
-
-
 .control {
   border: none;
   background-color: transparent;
